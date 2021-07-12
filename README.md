@@ -1,8 +1,10 @@
 ### Добро пожаловать,  ![visitors](https://visitor-badge.glitch.me/badge?page_id=soerdev)
 
-<img  align="center" width="128" src="https://github.com/soerdev/soerdev/blob/master/stickers/sm/ok.png" title="Ссылка на канал" alt="S0ER QRCode Link"/>
+<p align="center">
+<img  width="128" src="https://github.com/soerdev/soerdev/blob/master/stickers/sm/ok.png" title="Ссылка на канал" alt="S0ER QRCode Link"/>
+</p>
 
-<p style="background-color: #ccc;">
+<p align="center">
 Круто, что ты нашел время, чтобы заглянуть
 </p>
 
