@@ -1,4 +1,4 @@
-### Добро пожаловать,
+### Добро пожаловать, ![Visitor Count](https://profile-counter.glitch.me/soerdev/count.svg)
 
 <p>
   <a href="https://www.youtube.com/c/S0ERDEVS">
