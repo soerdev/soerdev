@@ -28,4 +28,4 @@
  <br />🍿 <b>создание видео</b> <br/>👩🏻‍💻 <b>программирование</b> <br />🏛 <b>архитектура программных систем</b> <br />🪞 <b>саморазвитие</b>
 </p>
 
-[<img src="https://s0er.ru/badge/ityoutubers.svg">](https://ityoutubers.info/)
+[<img src="https://s0er.ru/badge/ityoutubers.svg">](https://ityoutubers.info/) [<img src="badges/soerpro.svg">](https://s0er.ru/)
